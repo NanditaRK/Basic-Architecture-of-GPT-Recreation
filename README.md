@@ -1,1 +1,1 @@
-Inspired by the Andrej Karpathy series but also from random web surfing to know more about the transformer architecture.
+Inspired by the Andrej Karpathy series but also from random web surfing to know more about the transformer architecture like the [Attention is All you Need]([url](https://arxiv.org/abs/1706.03762)) paper.
